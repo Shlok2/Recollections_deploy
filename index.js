@@ -28,7 +28,7 @@ import cors from "cors";
 
 import postRoutes from "./routes/posts.js";
 import userRoutes from "./routes/users.js";
-const path = require("path");
+import path from "path";
 
 // Also can use this to import.
 // const express = require('express');
